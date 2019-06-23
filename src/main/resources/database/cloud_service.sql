@@ -1,5 +1,7 @@
 USE cloud_service;
 
+-- https://github.com/wuyouzhuguli/FEBS（参考项目）
+
 SET FOREIGN_KEY_CHECKS = 0;
 
 -- ----------------------------
